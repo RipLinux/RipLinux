@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A software developer and studing engineering</h3>
 
-- 👨‍💻 All of my projects are available at [http://riplinux.rf.gd/](http://riplinux.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://riplinux.rf.gd/](https://riplinux.rf.gd/)
 
 - 📫 How to reach me **havarhost@gmail.com**
 
